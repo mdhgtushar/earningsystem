@@ -1,0 +1,9 @@
+{
+    "students_cofig" : {
+        "name" : "Students Module",
+        "description" : "Students Module Description"
+    },
+    "students_menus": {
+        "students" : "Student System"
+    }
+}

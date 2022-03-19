@@ -1,0 +1,11 @@
+{
+    "module_name_cofig":{
+        "name": "Demo Module Config",
+        "description": "Demo Description",
+        "version": "1.0",
+        "author": "HG Tushar"
+    },
+    "module_name_menus":{
+        "module_name": "Demo Module"
+    }
+}

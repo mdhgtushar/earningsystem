@@ -1,0 +1,4 @@
+config.json
+init.php
+index.php
+template- folder

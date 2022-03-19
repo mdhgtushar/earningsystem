@@ -1,0 +1,11 @@
+{
+    "ip_manager_cofig":{
+        "name": "Ip Manager",
+        "description": "Demo Description",
+        "version": "1.0",
+        "author": "HG Tushar"
+    },
+    "ip_manager_menus":{
+        "ip_manager": "Ip Manager Module"
+    }
+}

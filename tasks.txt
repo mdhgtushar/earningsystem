@@ -1,0 +1,7 @@
+dashbord->
+1. tody ads view
+2. add reffer income
+3. suspend account.
+
+tasks->
+1.viewtask
